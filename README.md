@@ -1,4 +1,4 @@
-Diabetes Prediction using Machine Learning
+##Diabetes Prediction using Machine Learning
 Overview
 This project aims to predict the likelihood of diabetes in patients based on medical attributes. The dataset, sourced from the National Institute of Diabetes and Digestive and Kidney Diseases, includes diagnostic measurements such as glucose levels, BMI, and age. By employing machine learning techniques, this project provides insights into identifying high-risk individuals and aiding early interventions.
 
